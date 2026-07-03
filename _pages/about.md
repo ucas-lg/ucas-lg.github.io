@@ -17,11 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Liu Gan. My research centers on two core areas: operational aerial robots, and collaborative exploration with heterogeneous robots in signal-denied environments. I have been deeply involved in three projects under China’s National Key Research and Development Program, and possess full-stack R&D capabilities spanning physical robotic system prototyping, algorithm deployment, and real-world engineering implementation. In the research of operational aerial manipulators, I have addressed key technical challenges including obstacle avoidance planning in complex forest scenarios, motion planning for grasping swaying vegetation targets, and contact inspection of large amusement facilities. Relevant findings have been published in EI-indexed Class A journals of the Chinese Association of Automation (CAA) and EI-indexed international conferences, and two complete software-hardware systems have been put into practice: a high-altitude sampling aerial manipulator and an active operational inspection UAV. For exploration in signal-denied environments, I have built three UAV systems capable of autonomous obstacle avoidance under satellite-denied conditions, based on LiDAR localization and obstacle avoidance planning algorithms. Relevant algorithmic achievements have been published at EI conferences, with one SCI journal paper currently under review.
-In terms of academic outputs, I focus on UAV motion planning and control. As the first author, I have 2 EI papers published or accepted, along with 1 SCI paper and 1 EI paper under external review; as a co-author, I have 1 Chinese core journal paper and 1 SCI Zone II paper accepted. For competitions and honors, I have received multiple national-level awards, including the National First Prize in the China College Students Mechanical Engineering Innovation and Creativity Competition and the National Second Prize in the National Ocean Vehicle Design and Production Competition. I have also been granted the National Encouragement Scholarship and the First-Class Academic Scholarship of the University of Chinese Academy of Sciences, and earned titles such as Merit Student and Outstanding Graduate of Wuhan University of Technology. On the technical side, I am proficient in C/C++, Python and Linux development, and specialize in the design of robot motion planning, trajectory planning and control algorithms, with comprehensive engineering practice experience covering mechanical modeling and machining, system integration and debugging, as well as algorithm verification and optimization.
+👋 Hi, I'm Liu Gan — I build capable aerial robots that thrive in tough, real-world conditions.
+
+My research focuses on two frontiers: **operational aerial manipulators** and **signal-denied autonomous exploration**. Across 3 National Key R&D Program projects, I own the full pipeline from mechanical prototyping to algorithm deployment and field implementation. I’ve developed drone-mounted robotic arms for dense forest sampling and large facility inspection, and assembled a 3-UAV fleet that navigates and avoids obstacles purely with LiDAR — no GPS required. My findings are published in CAA Class A EI journals and international EI conferences, with one SCI journal paper currently under review.
+
+I deep-dive into UAV motion planning and control, with 2 first-author EI papers published/accepted and 2 more under external review. Beyond the lab, I’ve earned multiple national competition awards (including 1st and 2nd prizes), top-tier scholarships from UCAS, and honor titles from Wuhan University of Technology. Proficient in C/C++, Python and Linux, I bring end-to-end engineering experience spanning mechanical design, system integration, and algorithm optimization.
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Master, Key Laboratory of Robotics and Intelligent Systems, Shenyang Institute of Automation, Chinese Academy of Sciences. 
+- *2024.09 - now, Master, Key Laboratory of Robotics and Intelligent Systems, Shenyang Institute of Automation, Chinese Academy of Sciences. 
 - *2020.09 - 2024.06, Bachelor Degree, Transportation and Logistics Engineering, Wuhan University of Technology. 
 
 # 📝 Publications 
@@ -40,13 +43,13 @@ In terms of academic outputs, I focus on UAV motion planning and control. As the
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-### 🏅 Competition Awards
+# 🏅 Competition Awards
 - **National First Prize** · Crane Innovation Competition, China College Students Mechanical Engineering Innovation and Creativity Competition · 2023
 - **National Second Prize** · The 12th National Ocean Vehicle Design and Production Competition · 2023
 - **National Third Prize** · "Huawei Cup" China Postgraduate Mathematical Contest in Modeling · 2024
 - **National Third Prize** · The 5th National College Students Smart Supply Chain Innovation and Entrepreneurship Challenge · 2022
 
-### 🎓 Honors & Scholarships
+# 🎓 Honors & Scholarships
 - National Encouragement Scholarship · 2021 & 2022
 - First-Class Academic Scholarship, University of Chinese Academy of Sciences · 2025
 - Merit Student, Wuhan University of Technology · 2021, 2022 & 2023
@@ -60,3 +63,23 @@ In terms of academic outputs, I focus on UAV motion planning and control. As the
 - 🏸 &nbsp; **Badminton**: Regular weekly play, enjoy competitive doubles matches and racket sport training.
 - 🚴 &nbsp; **Cycling**: Passionate about long-distance outdoor cycling and recreational city rides.
 - 🏓 &nbsp; **Table Tennis**: Casual enthusiast, focus on skill improvement and daily fitness through the sport.
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="images/badminton.png" height="180" alt="Badminton">
+      <br>
+      <sub>Badminton</sub>
+    </td>
+    <td align="center">
+      <img src="images/cycling1.png" height="180" alt="Cycling">
+      <br>
+      <sub>Cycling</sub>
+    </td>
+    <td align="center">
+      <img src="images/cycling2.png" height="180" alt="Table Tennis">
+      <br>
+      <sub>Table Tennis</sub>
+    </td>
+  </tr>
+</table>

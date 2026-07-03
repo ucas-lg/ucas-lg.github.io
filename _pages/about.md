@@ -24,8 +24,8 @@ My research focuses on two frontiers: **operational aerial manipulators** and **
 I deep-dive into UAV motion planning and control, with 2 first-author EI papers published/accepted and 2 more under external review. Beyond the lab, I’ve earned multiple national competition awards (including 1st and 2nd prizes), top-tier scholarships from UCAS, and honor titles from Wuhan University of Technology. Proficient in C/C++, Python and Linux, I bring end-to-end engineering experience spanning mechanical design, system integration, and algorithm optimization.
 
 # 📖 Educations
-- 2024.09 - now, Master, Key Laboratory of Robotics and Intelligent Systems, Shenyang Institute of Automation, Chinese Academy of Sciences. 
-- 2020.09 - 2024.06, Bachelor Degree, Transportation and Logistics Engineering, Wuhan University of Technology. 
+- *2024.09 - now, Master, Key Laboratory of Robotics and Intelligent Systems, Shenyang Institute of Automation, Chinese Academy of Sciences. 
+- *2020.09 - 2024.06, Bachelor Degree, Transportation and Logistics Engineering, Wuhan University of Technology. 
 
 # 📝 Publications 
 

@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Gan Liu"
-  avatar           : "person.png"
+  avatar           : "images/person.png"
   bio              : "Lorem ipsum College"
   location         : "Shengyang, China"
   employer         :

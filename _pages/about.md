@@ -117,7 +117,7 @@ Built a water rescue robot platform with strong current resistance, integrating 
 
 <span class='anchor' id='honors-and-awards'></span>
 
-# 🎓 Honors and Scholarships
+# 🎓 Honors and Awards
 - National Encouragement Scholarship · 2021 & 2022
 - First-Class Academic Scholarship, University of Chinese Academy of Sciences · 2025
 - Merit Student, Wuhan University of Technology · 2021, 2022 & 2023

@@ -143,6 +143,5 @@ Realized multi-ship collision avoidance trajectory planning in complex inland wa
 
 <div style="display:flex; gap:12px; flex-wrap:wrap; margin-top:8px;">
   <img src="images/badminton.png" alt="Badminton" style="width:32%; min-width:180px; border-radius:8px;">
-  <img src="images/cycling1.png" alt="Cycling 1" style="width:32%; min-width:180px; border-radius:8px;">
   <img src="images/cycling2.png" alt="Cycling 2" style="width:32%; min-width:180px; border-radius:8px;">
 </div>

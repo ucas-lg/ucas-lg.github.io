@@ -62,5 +62,10 @@ I deep-dive into UAV motion planning and control, with 2 first-author EI papers 
 # 🔥 Love
 - 🏸 &nbsp; **Badminton**: Regular weekly play, enjoy competitive doubles matches and racket sport training.
 - 🚴 &nbsp; **Cycling**: Passionate about long-distance outdoor cycling and recreational city rides.
-- 🏓 &nbsp; **Table Tennis**: Casual enthusiast, focus on skill improvement and daily fitness through the sport.
+- 🏊 &nbsp; **Swimming**: Casual enthusiast, focus on endurance building and full-body fitness through regular swimming sessions.
 
+<div style="display:flex; gap:12px; flex-wrap:wrap; margin-top:8px;">
+  <img src="images/badminton.png" alt="Badminton" style="width:32%; min-width:180px; border-radius:8px;">
+  <img src="images/cycling1.png" alt="Cycling 1" style="width:32%; min-width:180px; border-radius:8px;">
+  <img src="images/cycling2.png" alt="Cycling 2" style="width:32%; min-width:180px; border-radius:8px;">
+</div>

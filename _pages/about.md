@@ -115,6 +115,7 @@ Realized multi-ship collision avoidance trajectory planning in complex inland wa
 </div>
 
 - [Coupled-Layer Diffusion for Kinodynamic Trajectory Generation](https://ieeexplore.ieee.org/document/11478300), Pinhui Zhao, Decai Li, Minjiang Wu, **et al**, **IEEE Robotics and Automation Letters**
+- [Path Planning for Ferry Crossing Inland Waterways Based on Deep Reinforcement Learning](https://www.mdpi.com/2077-1312/11/2/337), Xiaoli Yuan, Chengji Yuan, Wuliu Tian, **Gan Liu**, **Journal of Marine Science and Engineering**
 - [A* Pre-Guided Ant Colony Path Planning Algorithm Integrated with Q-learning ](https://kns.cnki.net/kcms2/article/abstract?v=wTY03cmeYFpeQqJlZqFtGPv4dQNbCGWncxG9kpL0HKJCI9aIwJ45quPR9wwSVnTK7Qa2PLMvxLZlDoasn7uJWXqn2PGQeyXplJTVOC5pp3LXcNFB5nMhEbFA1N_KjYBYFI4l9oZt4qAoUGagfOjWK5sxGhnu2wAz96_Qqc7GUvTS2bsNzaLlVA==&uniplatform=NZKPT&language=CHS), Yin Xiaotian, Yang Liying, **Liu Gan**, et al., **Sensors and Microsystems**
 
 <span class='anchor' id='competition-awards'></span>
@@ -143,5 +144,6 @@ Realized multi-ship collision avoidance trajectory planning in complex inland wa
 
 <div style="display:flex; gap:12px; flex-wrap:wrap; margin-top:8px;">
   <img src="images/badminton.png" alt="Badminton" style="width:32%; min-width:180px; border-radius:8px;">
+  <img src="images/cycling1.png" alt="Cycling 1" style="width:32%; min-width:180px; border-radius:8px;">
   <img src="images/cycling2.png" alt="Cycling 2" style="width:32%; min-width:180px; border-radius:8px;">
 </div>

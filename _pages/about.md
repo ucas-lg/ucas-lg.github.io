@@ -52,7 +52,7 @@ Developed an autonomous intelligent crane system with high-precision positioning
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Marine Robot</div><img src='images/auv.gif' alt="Drowning Rescue Robot Demo" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AUV</div><img src='images/auv.gif' alt="Drowning Rescue Robot Demo" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Autonomous High-Speed Anti-Current Drowning Rescue Robot**
@@ -62,7 +62,7 @@ Built a water rescue robot platform with strong current resistance, integrating 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Marine Navigation</div><img src='images/ship.gif' alt="Ship Navigation Decision Support System Demo" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ship</div><img src='images/ship.gif' alt="Ship Navigation Decision Support System Demo" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Ship Navigation Decision Support System Based on Dynamic Navigation Space**

@@ -24,23 +24,57 @@ My research focuses on two frontiers: **operational aerial manipulators** and **
 I deep-dive into UAV motion planning and control, with 2 first-author EI papers published/accepted and 2 more under external review. Beyond the lab, I’ve earned multiple national competition awards (including 1st and 2nd prizes), top-tier scholarships from UCAS, and honor titles from Wuhan University of Technology. Proficient in C/C++, Python and Linux, I bring end-to-end engineering experience spanning mechanical design, system integration, and algorithm optimization.
 
 # 📖 Educations
-- *2020.09 - 2024.06, Bachelor Degree, Transportation and Logistics Engineering, Wuhan University of Technology. 
+- 2024.09 - now, Master, Key Laboratory of Robotics and Intelligent Systems, Shenyang Institute of Automation, Chinese Academy of Sciences. 
+- 2020.09 - 2024.06, Bachelor Degree, Transportation and Logistics Engineering, Wuhan University of Technology. 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICUS 2025</div><img src='images/icus2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[PF-BiRRT: Potential Field Guided Bidirectional Locally Constrained RRT-Connect Path Planning Algorithm](https://ieeexplore.ieee.org/document/11295573)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
+**G. Liu**, L. Yang, X. Yin, S. Li and Z. Huang
+<!-- 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+</div>
+</div>
+<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of System Simulation 2026</div><img src='images/JSS2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[ Obstacle Avoidance Trajectory Planning for Flying Mechanical Arms Based on Bezier Curve](https://kns.cnki.net/kcms2/article/abstract?v=wTY03cmeYFolyIuN5i3Aw8OIafEhwgzvVFoPy7GaHBzFJLKSBVVtA7Zhjqm6cR4fslb9h6tPgxHwlbrb-JespuaPode1hdfKB71usG2Nd6kuB15GJ8LRruCDxiJdAGDpoBA3MjsHd3PlHh3vl3Z6diajnyx8v0AtLtKLSqeMqHpSmzi5Cbg96w==&uniplatform=NZKPT&language=CHS)
+
+**G. Liu**, L. Yang, S. Li, et al
+
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIVP</div><img src='images/SIVP.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[ VA-RRT: A Neural Adaptive RRT-Connect Path Planning Algorithm Guided by Visual Attention Mechanisms(Under Review)](https://ucas-lg.github.io/)
+
+**G. Liu**, L. Yang, Z. Huang, et al
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">icus2026</div><img src='images/icus2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MPC-Based Motion Planning for Aerial Grasping of Vegetation Canopy Samples(Under Review)](https://ucas-lg.github.io/)
+
+**G. Liu**, L. Yang, S. Li, et al
+
+</div>
+</div>
+
+- [Coupled-Layer Diffusion for Kinodynamic Trajectory Generation](https://ieeexplore.ieee.org/document/11478300), Pinhui Zhao, Decai Li, Minjiang Wu, **et al**, **IEEE Robotics and Automation Letters**
+- [A* Pre-Guided Ant Colony Path Planning Algorithm Integrated with Q-learning ](https://kns.cnki.net/kcms2/article/abstract?v=wTY03cmeYFpeQqJlZqFtGPv4dQNbCGWncxG9kpL0HKJCI9aIwJ45quPR9wwSVnTK7Qa2PLMvxLZlDoasn7uJWXqn2PGQeyXplJTVOC5pp3LXcNFB5nMhEbFA1N_KjYBYFI4l9oZt4qAoUGagfOjWK5sxGhnu2wAz96_Qqc7GUvTS2bsNzaLlVA==&uniplatform=NZKPT&language=CHS), Yin Xiaotian, Yang Liying, **Liu Gan**, et al., **Sensors and Microsystems**
+
 
 # 🏅 Competition Awards
 - **National First Prize** · Crane Innovation Competition, China College Students Mechanical Engineering Innovation and Creativity Competition · 2023
@@ -65,6 +99,5 @@ I deep-dive into UAV motion planning and control, with 2 first-author EI papers 
 
 <div style="display:flex; gap:12px; flex-wrap:wrap; margin-top:8px;">
   <img src="images/badminton.png" alt="Badminton" style="width:32%; min-width:180px; border-radius:8px;">
-  <img src="images/cycling1.png" alt="Cycling 1" style="width:32%; min-width:180px; border-radius:8px;">
   <img src="images/cycling2.png" alt="Cycling 2" style="width:32%; min-width:180px; border-radius:8px;">
 </div>

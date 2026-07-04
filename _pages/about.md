@@ -19,8 +19,7 @@ redirect_from:
 
 👋 Hi, I'm Liu Gan — I build capable aerial robots that thrive in tough, real-world conditions.
 
-My research focuses on two frontiers: **operational aerial manipulators** and **signal-denied autonomous exploration**. Across 3 National Key R&D Program projects, I own the full pipeline from mechanical prototyping to algorithm deployment and field implementation. I’ve developed drone-mounted robotic arms for dense forest sampling and large facility inspection, and assembled a 3-UAV fleet that navigates and avoids obstacles purely with LiDAR — no GPS required. My findings are published in CAA Class A EI journals and international EI conferences, with one SCI journal paper currently under review.
-
+My research focuses on two frontiers: **operational aerial manipulators** and **signal-denied autonomous exploration**. Across 3 National Key R&D Program projects, I own the full pipeline from mechanical prototyping to algorithm deployment and field implementation. I’ve developed drone-mounted robotic arms for dense forest sampling and large facility inspection, and assembled a 3-UAV fleet that navigates and avoids obstacles purely with LiDAR in GNNS denied environment.
 I deep-dive into UAV motion planning and control, with 2 first-author EI papers published/accepted and 2 more under external review. Beyond the lab, I’ve earned multiple national competition awards (including 1st and 2nd prizes), top-tier scholarships from UCAS, and honor titles from Wuhan University of Technology. Proficient in C/C++, Python and Linux, I bring end-to-end engineering experience spanning mechanical design, system integration, and algorithm optimization.
 
 # 📖 Educations

@@ -24,8 +24,41 @@ My research focuses on two frontiers: **operational aerial manipulators** and **
 I deep-dive into UAV motion planning and control, with 2 first-author EI papers published/accepted and 2 more under external review. Beyond the lab, I’ve earned multiple national competition awards (including 1st and 2nd prizes), top-tier scholarships from UCAS, and honor titles from Wuhan University of Technology. Proficient in C/C++, Python and Linux, I bring end-to-end engineering experience spanning mechanical design, system integration, and algorithm optimization.
 
 # 📖 Educations
-- 2024.09 - now, Master, Key Laboratory of Robotics and Intelligent Systems, Shenyang Institute of Automation, Chinese Academy of Sciences. 
+- 2024.09 - now, Master's student, Key Laboratory of Robotics and Intelligent Systems, Shenyang Institute of Automation, Chinese Academy of Sciences. 
 - 2020.09 - 2024.06, Bachelor Degree, Transportation and Logistics Engineering, Wuhan University of Technology. 
+
+# 📌 Projects
+I have extensive experience in developing ground robots, underwater robots, and aerial robots, and I've participated in several key R&D projects and research competitions.
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Aerial Robot</div><img src='images/uav.gif' alt="UAV Obstacle Avoidance Demo" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**UAV Obstacle Avoidance Trajectory Planning in Signal-Denied Environments**
+
+Designed and implemented a LiDAR-based trajectory planning and real-time obstacle avoidance system for multi-UAV fleets in GPS-denied and signal-interference environments. Realized stable autonomous navigation without external positioning signals, completed field deployment and verification in complex scenarios.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ground Robot</div><img src='images/qzj.gif' alt="Autonomous Handling Crane Demo" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Autonomous Handling Crane**
+
+Developed an autonomous intelligent crane system with high-precision positioning, visual cargo identification and stable transfer capabilities. This work won the National First Prize in the China College Students Mechanical Engineering Innovation and Creativity Competition.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Marine Robot</div><img src='images/auv.gif' alt="Drowning Rescue Robot Demo" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Autonomous High-Speed Anti-Current Drowning Rescue Robot**
+
+Built a water rescue robot platform with strong current resistance, integrating autonomous drowning person detection, high-speed approach and safe rescue functions. This work won the National Second Prize in the 12th National Ocean Vehicle Design and Production Competition.
+
+</div>
+</div>
 
 # 📝 Publications 
 
@@ -35,12 +68,9 @@ I deep-dive into UAV motion planning and control, with 2 first-author EI papers 
 [PF-BiRRT: Potential Field Guided Bidirectional Locally Constrained RRT-Connect Path Planning Algorithm](https://ieeexplore.ieee.org/document/11295573)
 
 **G. Liu**, L. Yang, X. Yin, S. Li and Z. Huang
-<!-- 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+
 </div>
 </div>
-<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of System Simulation 2026</div><img src='images/JSS2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -82,15 +112,13 @@ I deep-dive into UAV motion planning and control, with 2 first-author EI papers 
 - **National Third Prize** · "Huawei Cup" China Postgraduate Mathematical Contest in Modeling · 2024
 - **National Third Prize** · The 5th National College Students Smart Supply Chain Innovation and Entrepreneurship Challenge · 2022
 
-# 🎓 Honors & Scholarships
+# 🎓 Honors and Scholarships
 - National Encouragement Scholarship · 2021 & 2022
 - First-Class Academic Scholarship, University of Chinese Academy of Sciences · 2025
 - Merit Student, Wuhan University of Technology · 2021, 2022 & 2023
 - Excellent Communist Youth League Member, Wuhan University of Technology · 2023
 - Outstanding Graduate, Wuhan University of Technology · 2024
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
 
 # 🔥 Love
 - 🏸 &nbsp; **Badminton**: Regular weekly play, enjoy competitive doubles matches and racket sport training.

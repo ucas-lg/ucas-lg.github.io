@@ -62,6 +62,16 @@ Built a water rescue robot platform with strong current resistance, integrating 
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Marine Navigation</div><img src='images/ship.gif' alt="Ship Navigation Decision Support System Demo" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Ship Navigation Decision Support System Based on Dynamic Navigation Space**
+
+Realized multi-ship collision avoidance trajectory planning in complex inland waterways based on the Velocity Obstacle method and Dynamic Window Approach, providing real-time decision support for safe and efficient ship navigation in restricted channel environments.
+
+</div>
+</div>
+
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICUS 2025</div><img src='images/icus2025.png' alt="sym" width="100%"></div></div>

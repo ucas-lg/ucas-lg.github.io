@@ -27,6 +27,8 @@ I deep-dive into UAV motion planning and control, with 2 first-author EI papers 
 - 2024.09 - now, Master's student, Key Laboratory of Robotics and Intelligent Systems, Shenyang Institute of Automation, Chinese Academy of Sciences. 
 - 2020.09 - 2024.06, Bachelor Degree, Transportation and Logistics Engineering, Wuhan University of Technology. 
 
+<span class='anchor' id='projects'></span>
+
 # 📌 Projects
 I have extensive experience in developing ground robots, underwater robots, and aerial robots, and I've participated in several key R&D projects and research competitions.
 
@@ -105,12 +107,15 @@ Built a water rescue robot platform with strong current resistance, integrating 
 - [Coupled-Layer Diffusion for Kinodynamic Trajectory Generation](https://ieeexplore.ieee.org/document/11478300), Pinhui Zhao, Decai Li, Minjiang Wu, **et al**, **IEEE Robotics and Automation Letters**
 - [A* Pre-Guided Ant Colony Path Planning Algorithm Integrated with Q-learning ](https://kns.cnki.net/kcms2/article/abstract?v=wTY03cmeYFpeQqJlZqFtGPv4dQNbCGWncxG9kpL0HKJCI9aIwJ45quPR9wwSVnTK7Qa2PLMvxLZlDoasn7uJWXqn2PGQeyXplJTVOC5pp3LXcNFB5nMhEbFA1N_KjYBYFI4l9oZt4qAoUGagfOjWK5sxGhnu2wAz96_Qqc7GUvTS2bsNzaLlVA==&uniplatform=NZKPT&language=CHS), Yin Xiaotian, Yang Liying, **Liu Gan**, et al., **Sensors and Microsystems**
 
+<span class='anchor' id='competition-awards'></span>
 
 # 🏅 Competition Awards
 - **National First Prize** · Crane Innovation Competition, China College Students Mechanical Engineering Innovation and Creativity Competition · 2023
 - **National Second Prize** · The 12th National Ocean Vehicle Design and Production Competition · 2023
 - **National Third Prize** · "Huawei Cup" China Postgraduate Mathematical Contest in Modeling · 2024
 - **National Third Prize** · The 5th National College Students Smart Supply Chain Innovation and Entrepreneurship Challenge · 2022
+
+<span class='anchor' id='honors-and-awards'></span>
 
 # 🎓 Honors and Scholarships
 - National Encouragement Scholarship · 2021 & 2022
@@ -119,6 +124,7 @@ Built a water rescue robot platform with strong current resistance, integrating 
 - Excellent Communist Youth League Member, Wuhan University of Technology · 2023
 - Outstanding Graduate, Wuhan University of Technology · 2024
 
+<span class='anchor' id='love'></span>
 
 # 🔥 Love
 - 🏸 &nbsp; **Badminton**: Regular weekly play, enjoy competitive doubles matches and racket sport training.

@@ -422,9 +422,9 @@ MPC-Based Motion Planning for Aerial Grasping of Vegetation Canopy Samples
   </div>
 </div>
 
-<span class='anchor' id='honors-and-awards'></span>
+<span class='anchor' id='honors-and-scholarships'></span>
 
-# 🎓 Honors & Scholarships
+# 🎓 Honors and Scholarships
 <div class="awards-grid">
   <div class="award-card">
     <div class="award-level">First-Class Academic Scholarship</div>

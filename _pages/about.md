@@ -292,7 +292,7 @@ I deep-dive into UAV motion planning and control, with 2 first-author EI papers 
 
 <span class='anchor' id='projects'></span>
 
-# 📌 Selected Projects
+# 📌 Projects
 I have extensive experience in developing ground robots, underwater robots, and aerial robots, and I've participated in several key R&D projects and research competitions.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Aerial Robot</div><img src='images/uav.gif' alt="UAV Obstacle Avoidance Demo" width="100%"></div></div>
@@ -396,44 +396,6 @@ MPC-Based Motion Planning for Aerial Grasping of Vegetation Canopy Samples
   Yin Xiaotian, Yang Liying, <strong>Liu Gan</strong>, et al. · <em>Sensors and Microsystems</em>
 </div>
 
-<span class='anchor' id='skills'></span>
-
-# 💻 Technical Skills
-<div class="skills-section">
-  <div class="skill-category">
-    <h4>Programming & Languages</h4>
-    <div class="skill-tags">
-      <span class="skill-tag">C/C++</span>
-      <span class="skill-tag">Python</span>
-      <span class="skill-tag">MATLAB</span>
-      <span class="skill-tag">CMake</span>
-      <span class="skill-tag">Shell</span>
-    </div>
-  </div>
-  <div class="skill-category">
-    <h4>Robotics & Algorithms</h4>
-    <div class="skill-tags">
-      <span class="skill-tag">Motion Planning</span>
-      <span class="skill-tag">MPC</span>
-      <span class="skill-tag">RRT Series</span>
-      <span class="skill-tag">Reinforcement Learning</span>
-      <span class="skill-tag">Trajectory Optimization</span>
-      <span class="skill-tag">LiDAR Perception</span>
-    </div>
-  </div>
-  <div class="skill-category">
-    <h4>Platforms & Tools</h4>
-    <div class="skill-tags">
-      <span class="skill-tag">ROS / ROS2</span>
-      <span class="skill-tag">Linux</span>
-      <span class="skill-tag">Gazebo</span>
-      <span class="skill-tag">PX4</span>
-      <span class="skill-tag">SolidWorks</span>
-      <span class="skill-tag">Git</span>
-    </div>
-  </div>
-</div>
-
 <span class='anchor' id='competition-awards'></span>
 
 # 🏅 Competition Awards
@@ -486,7 +448,51 @@ MPC-Based Motion Planning for Aerial Grasping of Vegetation Canopy Samples
   </div>
 </div>
 
-<span class='anchor' id='love'></span>
+
+<span class='anchor' id='skills'></span>
+
+# 💻 Skills
+<div class="skills-section">
+  <div class="skill-category">
+    <h4>Programming & Languages</h4>
+    <div class="skill-tags">
+      <span class="skill-tag">C/C++</span>
+      <span class="skill-tag">Python</span>
+      <span class="skill-tag">MATLAB</span>
+      <span class="skill-tag">CMake</span>
+      <span class="skill-tag">Shell</span>
+    </div>
+  </div>
+  <div class="skill-category">
+    <h4>Robotics & Algorithms</h4>
+    <div class="skill-tags">
+      <span class="skill-tag">UAV</span>
+      <span class="skill-tag">AUV</span>
+      <span class="skill-tag">SHIP</span>
+      <span class="skill-tag">CRANE</span>
+      <span class="skill-tag">Motion Planning</span>
+      <span class="skill-tag">MPC</span>
+      <span class="skill-tag">RRT Series</span>
+      <span class="skill-tag">Reinforcement Learning</span>
+      <span class="skill-tag">Trajectory Optimization</span>
+      <span class="skill-tag">LiDAR Perception</span>
+    </div>
+  </div>
+  <div class="skill-category">
+    <h4>Platforms & Tools</h4>
+    <div class="skill-tags">
+      <span class="skill-tag">ROS</span>
+      <span class="skill-tag">Linux</span>
+      <span class="skill-tag">Gazebo</span>
+      <span class="skill-tag">PX4</span>
+      <span class="skill-tag">SolidWorks</span>
+      <span class="skill-tag">Ardunio</span>
+      <span class="skill-tag">Git</span>
+    </div>
+  </div>
+</div>
+
+<span class='anchor' id='interests'></span>
 
 # 🔥 Interests
 - 🏸 &nbsp; **Badminton**: Regular weekly play, enjoy competitive doubles matches and racket sport training.

@@ -4,22 +4,22 @@ main:
     url: "/#about-me"
 
   - title: "Educations"
-    url: "/#educations"
+    url: "/#-educations"
 
   - title: "Projects"
-    url: "/#projects"
+    url: "/#-projects"
 
   - title: "Publications"
-    url: "/#publications"
-
-  - title: "Skills"
-    url: "/#skills"
+    url: "/#-publications"
 
   - title: "Competition Awards"
-    url: "/#competition-awards"
+    url: "/#-competition-awards"
 
-  - title: "Honors & Awards"
-    url: "/#honors-and-awards"
+  - title: "Honors and Awards"
+    url: "/#-honors-and-awards"
+
+  - title: "Skills"
+    url: "/#-skills"
 
   - title: "Interests"
-    url: "/#love"
+    url: "/#-interests"

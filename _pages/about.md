@@ -434,7 +434,7 @@ MPC-Based Motion Planning for Aerial Grasping of Vegetation Canopy Samples
   <div class="award-card">
     <div class="award-level">National Encouragement Scholarship</div>
     <div class="award-name">Ministry of Education of China</div>
-    <div class="award-year">2021 & 2022</div>
+    <div class="award-year">2021, 2022</div>
   </div>
   <div class="award-card">
     <div class="award-level">Outstanding Graduate</div>
@@ -444,7 +444,7 @@ MPC-Based Motion Planning for Aerial Grasping of Vegetation Canopy Samples
   <div class="award-card">
     <div class="award-level">Merit Student</div>
     <div class="award-name">Wuhan University of Technology</div>
-    <div class="award-year">2021, 2022 & 2023</div>
+    <div class="award-year">2021, 2022, 2023</div>
   </div>
 </div>
 

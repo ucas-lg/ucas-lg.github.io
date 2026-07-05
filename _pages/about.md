@@ -456,11 +456,11 @@ MPC-Based Motion Planning for Aerial Grasping of Vegetation Canopy Samples
   <div class="skill-category">
     <h4>Programming & Languages</h4>
     <div class="skill-tags">
-      <span class="skill-tag">C/C++</span>
       <span class="skill-tag">Python</span>
+      <span class="skill-tag">C/C++</span>
       <span class="skill-tag">MATLAB</span>
-      <span class="skill-tag">CMake</span>
-      <span class="skill-tag">Shell</span>
+      <span class="skill-tag">Java</span>
+      <span class="skill-tag">Visual Basic</span>
     </div>
   </div>
   <div class="skill-category">
